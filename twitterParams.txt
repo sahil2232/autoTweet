@@ -1,0 +1,9 @@
+httpMethod=POST
+baseUrl=https://api.twitter.com/1.1/statuses/update.json
+status=Tweeting from Terminal
+oauth_consumer_key={Consumer Key}
+oauth_signature_method=HMAC-SHA1
+oauth_token={Token}
+oauth_version=1.0
+oauth_consumer_secret={Consumer Secret}
+oauth_token_secret={Token Secret}
