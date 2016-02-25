@@ -1,0 +1,9 @@
+httpMethod=POST
+baseUrl=https://api.twitter.com/1.1/statuses/update.json
+status=Tweeting from Terminal
+oauth_consumer_key=hAH0gx295Q5tQTWhx13bciEXi
+oauth_signature_method=HMAC-SHA1
+oauth_token=2563005120-rImCbF8KAJn8uiGtVKyQhX3rtEHrhlfwjc1SlHR
+oauth_version=1.0
+oauth_consumer_secret=oQA2JnFocsJ6PCV89hIFUIjyp4uHZONpgcLDKY4uBon4mZCgC9
+oauth_token_secret=LOoe8PQTkLyIvQjor3N8ruvDvg1OoC5EzjxjxE8stP6vQ
